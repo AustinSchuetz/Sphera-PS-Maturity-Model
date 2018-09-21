@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/tools/ps-maturity-model/pages/self-assessment/index.vue" line="30" mnemonic="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="620009bd-fad1-464d-a991-9d17c2c607e5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="620009bd-fad1-464d-a991-9d17c2c607e5" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -379,7 +377,7 @@
       <workItem from="1536589639758" duration="2115000" />
       <workItem from="1536591931892" duration="45080000" />
       <workItem from="1537468620656" duration="2810000" />
-      <workItem from="1537545030224" duration="823000" />
+      <workItem from="1537545030224" duration="1678000" />
     </task>
     <task id="LOCAL-00001" summary="1st Commit, for GitHub repository with the full tool">
       <created>1537541693717</created>
@@ -406,7 +404,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="252181000" />
+    <option name="totallyTimeSpent" value="253036000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2409" y="-9" width="2418" height="1318" extended-state="6" />
