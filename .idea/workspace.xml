@@ -104,7 +104,7 @@
       <file leaf-file-name="index.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tools/ps-maturity-model/pages/self-assessment/result/index.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
+            <state relative-caret-position="-208">
               <caret line="383" column="47" lean-forward="false" selection-start-line="383" selection-start-column="47" selection-end-line="383" selection-end-column="47" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
@@ -379,7 +379,7 @@
       <workItem from="1536589639758" duration="2115000" />
       <workItem from="1536591931892" duration="45080000" />
       <workItem from="1537468620656" duration="2810000" />
-      <workItem from="1537545030224" duration="93000" />
+      <workItem from="1537545030224" duration="823000" />
     </task>
     <task id="LOCAL-00001" summary="1st Commit, for GitHub repository with the full tool">
       <created>1537541693717</created>
@@ -406,7 +406,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="251451000" />
+    <option name="totallyTimeSpent" value="252181000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2409" y="-9" width="2418" height="1318" extended-state="6" />
@@ -914,7 +914,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tools/ps-maturity-model/pages/self-assessment/result/index.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
+        <state relative-caret-position="-208">
           <caret line="383" column="47" lean-forward="false" selection-start-line="383" selection-start-column="47" selection-end-line="383" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
